@@ -1,0 +1,6 @@
+{
+  "name": "SAYLOV HUQUQI",
+  "description": "O‘zbekiston Respublikasi Saylov kodeksi asosida yaratilgan minimalistik huquqiy ta’lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
